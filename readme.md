@@ -132,6 +132,7 @@ Eulerian cycle: every time we enter a vertex, we can exit it along some unused e
 
 -------------
 -----------
+## Eulerian Path
 
 ![image](https://github.com/user-attachments/assets/6bc27466-1d8c-4219-94e2-9549708423be)
 
