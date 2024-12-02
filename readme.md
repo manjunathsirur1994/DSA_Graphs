@@ -1,5 +1,5 @@
  # Graphs
-
+[ppt link: https://docs.google.com/presentation/d/1JcNlQ7_zT3DtHajeQjk3zfRzE-KHL1gLGwBmiEI6d34/edit?usp=sharing]
 All the graphs are based out of general graph algorithms like depicted below:
 
 ![image](https://github.com/user-attachments/assets/03013147-b1d8-49e2-885c-e274e3c29d9e)
@@ -104,6 +104,9 @@ It traverses through every vertices and returns back to the same vertex covering
 Eulerian cycle: every time we enter a vertex, we can exit it along some unused edge. so the degree of every vertex must be even. 
 
 ### If the degree of any vertex is odd, the graph cannot have an Eulerian cycle. 
+
+![image](https://github.com/user-attachments/assets/7de46ca5-57e5-42a6-9d72-fa4c1a855a26)
+
 
 
 
