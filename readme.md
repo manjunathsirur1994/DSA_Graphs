@@ -13,6 +13,9 @@ Rather than studying individual graph algorithms, study the general graph algori
 ![image](https://github.com/user-attachments/assets/0e165ee6-88bf-4def-881c-4d8aed1a804a)
 
 In the above diagram:
+
 c-d is a path
+
 c-b is not a valid path
+
 a-b-c-d is a cycle
