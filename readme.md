@@ -43,3 +43,8 @@ a graph of social media, edge from person a to b if
 Degree of vertex: Total number of edges sticking out of the vertex. 
 
 If there are multiple edges in a vertex, then it is called a multigraph. 
+
+------------------------
+
+
+An undirected graph is complete if there is an edge between every pair of vertices. If there are V vertices in such a graph, the degree of each vertex will be V-1. 
