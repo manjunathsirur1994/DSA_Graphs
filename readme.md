@@ -85,6 +85,18 @@ every Eulerian cycle is eulerian path, but not every eulerian path will be a eul
 ![image](https://github.com/user-attachments/assets/9da3270b-eafa-4f98-90da-8e117f7f7ae2)
 
 
+If we model every edges as vertices and every vertices as edges it becomes a entirely different problem which is called Hamiltonian cycle problem. 
+
+
+![image](https://github.com/user-attachments/assets/7ff01d6a-ca23-4b20-8454-011671c48d3a)
+
+
+If we consider the below graph, with n vertices, lets see what the graph has ? 
+
+![image](https://github.com/user-attachments/assets/d533f6f9-927f-4503-9e05-e7e3bc113e85)
+
+It traverses through every vertices and returns back to the same vertex covering all the vertices exactly once. so this is an eulerian cycle, every eulerian cycle is eulerian path. It is also Hamiltonian cycle, since it traverses through every vertex, and reaches back to the starting vertex, and every hamiltonian cycle is hamiltonian path. 
+
 
 
 
