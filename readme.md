@@ -44,7 +44,22 @@ Degree of vertex: Total number of edges sticking out of the vertex.
 
 If there are multiple edges in a vertex, then it is called a multigraph. 
 
-------------------------
-
-
 An undirected graph is complete if there is an edge between every pair of vertices. If there are V vertices in such a graph, the degree of each vertex will be V-1. 
+
+------------
+
+
+G = (V,E)
+
+v = set of all vertices
+
+e = set of all edges
+
+
+the sum of the degrees of all the vertices in an undirected graph = G=(V,E) is 2|E| example vertices is 4, then edges will be 8. 
+
+the sum of the degrees of all the vertices in an directed graph = G=(V,E) is |E| (total number of edges) example vertices is 4, then edges will be 4. 
+
+
+
+
