@@ -72,3 +72,19 @@ Answer: |E| is at least 500.
 If we add up the degrees of all vertices, that value would be at least 200 X 5 = at least 1000. So the number of edges must be at least 1000/2 = 500. 
 
 
+----------------
+
+## Eulerian path and Eulerian cycle
+
+![image](https://github.com/user-attachments/assets/ae7e23ea-2b54-4e44-8ed2-2448af217566)
+
+A - every other vertex exactly once - A
+
+every Eulerian cycle is eulerian path, but not every eulerian path will be a eulerian cycle. 
+
+![image](https://github.com/user-attachments/assets/9da3270b-eafa-4f98-90da-8e117f7f7ae2)
+
+
+
+
+
