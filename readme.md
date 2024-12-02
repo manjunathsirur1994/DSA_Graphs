@@ -137,8 +137,9 @@ Eulerian cycle: every time we enter a vertex, we can exit it along some unused e
 ![image](https://github.com/user-attachments/assets/6bc27466-1d8c-4219-94e2-9549708423be)
 
 
+Only the start and end vertices can have odd degree, all other vertices need to have even degrees. 
 
-
+To traverse through all the vertices in a graph, we need to have even number of vertices with odd degrees. 
 
 
 
