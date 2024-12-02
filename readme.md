@@ -117,7 +117,9 @@ Eulerian cycle: every time we enter a vertex, we can exit it along some unused e
 
 ![image](https://github.com/user-attachments/assets/16021ce1-3072-4942-9a23-8c41a9e1b0e4)
 
+![image](https://github.com/user-attachments/assets/66212df9-1c0b-4d1b-b919-c334e73babc7)
 
+![Uploading image.png…]()
 
 
 
