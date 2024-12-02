@@ -97,6 +97,33 @@ If we consider the below graph, with n vertices, lets see what the graph has ?
 
 It traverses through every vertices and returns back to the same vertex covering all the vertices exactly once. so this is an eulerian cycle, every eulerian cycle is eulerian path. It is also Hamiltonian cycle, since it traverses through every vertex, and reaches back to the starting vertex, and every hamiltonian cycle is hamiltonian path. 
 
+-------------
+
+![image](https://github.com/user-attachments/assets/1749c541-71c7-4c55-8456-f62a2fd0f9aa)
+
+Eulerian cycle: every time we enter a vertex, we can exit it along some unused edge. so the degree of every vertex must be even. 
+
+### If the degree of any vertex is odd, the graph cannot have an Eulerian cycle. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
