@@ -141,6 +141,17 @@ Only the start and end vertices can have odd degree, all other vertices need to 
 
 To traverse through all the vertices in a graph, we need to have even number of vertices with odd degrees. 
 
+![image](https://github.com/user-attachments/assets/b37a197e-eedf-43d2-bca5-57d5d50587d9)
+
+
+![image](https://github.com/user-attachments/assets/762372fd-2020-48ab-9c9c-080e19ca1789)
+
+![image](https://github.com/user-attachments/assets/a98e4a91-af52-4820-ac58-b73d599d045f)
+
+
+
+
+
 
 
 
