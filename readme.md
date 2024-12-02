@@ -1,4 +1,4 @@
-# Graphs
+ # Graphs
 
 All the graphs are based out of general graph algorithms like depicted below:
 
@@ -41,3 +41,5 @@ a graph of social media, edge from person a to b if
 ![image](https://github.com/user-attachments/assets/ca3db2ef-bcf1-47d9-ac3f-8b10656be161)
 
 Degree of vertex: Total number of edges sticking out of the vertex. 
+
+If there are multiple edges in a vertex, then it is called a multigraph. 
