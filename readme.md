@@ -57,8 +57,11 @@ e = set of all edges
 
 
 the sum of the degrees of all the vertices in an undirected graph = G=(V,E) is 2|E| example vertices is 4, then edges will be 8. 
+![image](https://github.com/user-attachments/assets/f2b4a88b-4f06-4280-aacb-8a08d3c7cd97)
+
 
 the sum of the degrees of all the vertices in an directed graph = G=(V,E) is |E| (total number of edges) example vertices is 4, then edges will be 4. 
+![image](https://github.com/user-attachments/assets/74146ca3-fb10-4b15-8d67-d663f1c9f580)
 
 
 
