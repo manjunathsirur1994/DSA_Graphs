@@ -32,3 +32,6 @@ Examples of directed graph:
 Below is not a directed graph, it is an undirected graph:
 
 a graph of social media, edge from person a to b if 
+-------------
+
+
