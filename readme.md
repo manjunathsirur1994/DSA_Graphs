@@ -119,10 +119,13 @@ Eulerian cycle: every time we enter a vertex, we can exit it along some unused e
 
 ![image](https://github.com/user-attachments/assets/66212df9-1c0b-4d1b-b919-c334e73babc7)
 
+![image](https://github.com/user-attachments/assets/675385ed-0a6d-4162-8841-7c3584c05981)
+
 ![image](https://github.com/user-attachments/assets/006e3e7e-1eb4-45ab-be01-4822fefb038e)
 
+![image](https://github.com/user-attachments/assets/6535e71b-c527-41f7-b263-d03172332b38)
 
-![Uploading image.png…]()
+
 
 
 
