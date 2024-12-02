@@ -64,5 +64,10 @@ the sum of the degrees of all the vertices in an directed graph = G=(V,E) is |E|
 ![image](https://github.com/user-attachments/assets/74146ca3-fb10-4b15-8d67-d663f1c9f580)
 
 
+An undirected airport graph has 200 airports, and each airport has a direct flight connection to at least 5 other airports. Which of the following is the most precise statement we can make about the number of edges?
+
+Answer: |E| is at least 500. 
+
+If we add up the degrees of all vertices, that value would be at least 200 X 5 = at least 1000. So the number of edges must be at least 1000/2 = 500. 
 
 
