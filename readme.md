@@ -25,8 +25,7 @@ c-d is a path [which is also called an edge]
 
 c-b is not a valid path
 
-a-b-c-d is a cycle
-
+a-b-d-c is a cycle
 
 Examples of directed graph:
 
